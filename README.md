@@ -27,4 +27,4 @@ Random Forest is the model with the highest accuracy on test set.
 
 The following features are the most influential in determining the offer acceptance:
 
-![Image](FeatureImportance.png)
+![Image](FeatureImportance.PNG)
