@@ -24,3 +24,7 @@ Random Forest is the model with the highest accuracy on test set.
 |   Logistic Regression __\[test set\]__   | 0.7855  |
 | Random Forest Classifier __\[test set\]__| 0.8575  |
 | XGBoost Classifier __\[test set\]__      | 0.8555  |
+
+The following features are the most influential in determining the offer acceptance:
+
+![Image](FeatureImportance.png)
